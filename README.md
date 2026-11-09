@@ -27,3 +27,15 @@ Determinar si se debe implementar la nueva página de inicio o mantener la origi
 Desde el siguiente boton dando clic para ir al notebook
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iPqu_rKniEGKbktFc8NHac9ZQMee4-3N?authuser=1#scrollTo=6ae9ff72)
+
+**Guia de reproducción**
+
+Descarga el achivo csv y cargarlo a colab.
+
+Dirígete al menú lateral izquierdo de tu Google Colab y haz clic en el ícono de Carpeta (Archivos).
+
+Haz clic en el primer ícono de arriba que dice "Subir al almacenamiento de sesiones" (representado con una pequeña carpeta y una flecha hacia arriba).
+
+Selecciona tu archivo desde tu PC.
+
+Una vez cargado en la lista, haz clic derecho sobre el nombre del archivo, selecciona "Copiar ruta" (Copy path) y pégala dentro de tu función de Pandas
